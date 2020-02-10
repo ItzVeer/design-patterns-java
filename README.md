@@ -1,2 +1,2 @@
-# design-patterns-java
-A design patterns are well-proved solution for solving the specific problem/task.But remember one-thing, design patterns are programming language independent strategies for solving the common object-oriented design problems. That means, a design pattern represents an idea, not a particular implementation.  By using the design patterns you can make your code more flexible, reusable and maintainable. It is the most important part because java internally follows design patterns.
+# Design Patterns
+A design patterns are well-proved solution for solving the specific problem/task.But remember one-thing, design patterns are programming language independent strategies for solving the common object-oriented design problems. That means, a design pattern represents an idea, not a particular implementation.  By using the design patterns you can make your code more flexible, reusable and maintainable.

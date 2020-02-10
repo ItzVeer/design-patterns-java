@@ -11,8 +11,6 @@ public class DesignPatternsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DesignPatternsApplication.class, args);
-
 		log.info("Genral Kenobi !!");
 	}
-
 }

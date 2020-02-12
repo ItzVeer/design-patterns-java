@@ -1,4 +1,4 @@
-package com.designpatterns;
+package com.designpatterns.creational;
 
 import lombok.extern.slf4j.Slf4j;
 
@@ -15,8 +15,8 @@ public class LaunchSingleton {
 
         /* OUTPUT : when run main method
         *
-        * 00:44:23.523 [main] INFO com.designpatterns.LaunchSingleton - First instance of singleton ==> com.designpatterns.Singleton@131276c2
-        * 00:44:23.531 [main] INFO com.designpatterns.LaunchSingleton - Second instance of singleton ==> com.designpatterns.Singleton@131276c2
+        * 00:44:23.523 [main] INFO com.designpatterns.creational.LaunchSingleton - First instance of singleton ==> com.designpatterns.creational.Singleton@131276c2
+        * 00:44:23.531 [main] INFO com.designpatterns.creational.LaunchSingleton - Second instance of singleton ==> com.designpatterns.creational.Singleton@131276c2
         *
         * As you observe above the single object is created
         *
